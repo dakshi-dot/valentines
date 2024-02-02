@@ -5,3 +5,6 @@ document.getElementById('noBtn').addEventListener('mouseenter', function() {
     this.style.left = x + 'px';
     this.style.top = y + 'px';
 });
+document.getElementById('yesBtn').addEventListener('click', function() {
+    window.location.href = 'yes.html';
+});
