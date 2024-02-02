@@ -1,7 +1,7 @@
 body {
     text-align: center;
     margin-top: 50px;
-    font-family: Arial, sans-serif;
+    font-family: 'Lucida Handwriting', sans-serif;
 }
 
 button {
@@ -11,7 +11,6 @@ button {
     cursor: pointer;
 }
 
-#duckGifContainer {
   #duckGifContainer p {
     color: #ff6699; /* Example color */
     font-size: 20px; /* Example font size */
@@ -19,4 +18,4 @@ button {
     font-family: 'Lucida Handwriting', sans-serif; /* Example font family */
 }
 
-}
+
