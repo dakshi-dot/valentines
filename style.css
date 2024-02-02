@@ -12,5 +12,11 @@ button {
 }
 
 #duckGifContainer {
+  #duckGifContainer p {
+    color: #ff6699; /* Example color */
+    font-size: 20px; /* Example font size */
     margin-top: 20px;
+    font-family: 'Lucida Handwriting', sans-serif; /* Example font family */
+}
+
 }
